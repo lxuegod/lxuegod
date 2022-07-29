@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lxuegod&show_icons=true&theme=dark&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxuegod&theme=dark&layout=compact)
+
+
 <!--
 **lxuegod/lxuegod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
