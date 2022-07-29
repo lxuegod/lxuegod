@@ -1,10 +1,23 @@
-### Hi there 👋
+### Hi there is my GitHub homepage👋
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lxuegod&show_icons=true&theme=dark&count_private=true)
+    ![Github Stats](https://github-readme-stats.vercel.app/api?username=lxuegod&show_icons=true&theme=dark&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxuegod&theme=dark&layout=compact)
+    
+    
+    ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxuegod&theme=dark&layout=compact)
 
+
+### 🌱 I’m currently learning
+
++ golang
+
++ cpp
+
+
+### 💬 Ask me about
+
+Contact me by email: [lxuegod@163.com](lxuegod@163.com)
 
 <!--
 **lxuegod/lxuegod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
