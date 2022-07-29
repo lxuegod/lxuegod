@@ -1,4 +1,4 @@
-### Hi there is my GitHub homepage👋
+### 👋 Hi there is my GitHub homepage
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lxuegod&show_icons=true&theme=dark&count_private=true)
